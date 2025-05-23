@@ -1,0 +1,14 @@
+.. _exhale_typedef_types_8h_1a62f3e15e4e18455b52854622b27c02ed:
+
+Typedef f3d::angle_deg_t
+========================
+
+- Defined in :ref:`file_public_types.h`
+
+
+Typedef Documentation
+---------------------
+
+
+.. doxygentypedef:: f3d::angle_deg_t
+   :project: libf3d
